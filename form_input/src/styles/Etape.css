@@ -1,0 +1,23 @@
+/*-----> Etape1 <------*/
+.titreEtape {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+
+/*-----> Etape2 <------*/
+.formNat {
+  position: relative;
+  width: 20rem;
+  margin-top: 45px;
+}
+.formSelecte {
+  position: relative;
+  width: 20rem;
+  margin-top: 15px;
+}
+
+.formInput {
+  position: relative;
+  width: 20rem;
+  margin-top: 70px;
+}

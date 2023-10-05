@@ -1,0 +1,48 @@
+.App{
+    margin: 0 auto;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    padding: 20px;
+    margin: 20px;
+}
+
+body{
+    margin: 0;
+    /* padding: 0;
+    box-sizing: border-box; */
+}
+
+button{
+    margin: 20px;
+   padding: 5px;
+   cursor: pointer;
+
+}
+
+input{
+    width: 20%;
+    padding: 5px;
+  margin: 20px;
+    outline: none;
+}
+
+.primary-nav{
+    background-color: aliceblue;
+    padding: 16px 32px;
+}
+
+nav a{
+    margin-right: 16px;
+}
+
+
+
+/* nav a.active{
+    text-decoration: none;
+    font-weight: bold;
+} */
+
+button{
+   margin-right: 150px;
+}
